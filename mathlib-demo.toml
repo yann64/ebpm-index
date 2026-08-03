@@ -1,0 +1,13 @@
+[package]
+name = "mathlib-demo"
+description = "A tiny demo math library for ebpm - proves the whole add/version-resolution pipeline end to end."
+
+[[versions]]
+version = "1.0.0"
+git = "https://github.com/yann64/mathlib-demo"
+tag = "v1.0.0"
+
+[[versions]]
+version = "1.1.0"
+git = "https://github.com/yann64/mathlib-demo"
+tag = "v1.1.0"
