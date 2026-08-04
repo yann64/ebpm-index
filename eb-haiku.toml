@@ -1,6 +1,6 @@
 [package]
 name = "eb-haiku"
-description = "A binding for Haiku OS's own native API (Storage/Support Kit, Interface Kit GUI + full Layout Kit, BApplication lifecycle) for eBasic - real only on Haiku hardware."
+description = "A binding for Haiku OS's own native API (Storage/Support Kit, Interface Kit GUI + full Layout Kit, Translation Kit, BApplication lifecycle) for eBasic - real only on Haiku hardware."
 
 [[versions]]
 version = "0.1.0"
@@ -16,3 +16,8 @@ tag = "v0.2.0"
 version = "0.3.0"
 git = "https://github.com/yann64/eb-haiku"
 tag = "v0.3.0"
+
+[[versions]]
+version = "0.4.0"
+git = "https://github.com/yann64/eb-haiku"
+tag = "v0.4.0"
