@@ -1,0 +1,8 @@
+[package]
+name = "qt6"
+description = "A Qt6 Widgets binding for eBasic (hand-written extern \"C\" shim over real Qt6 C++ classes, matching eb-haiku's architecture) - QApplication, widgets, signals, custom drawing."
+
+[[versions]]
+version = "0.1.0"
+git = "https://github.com/yann64/eb-qt6"
+tag = "v0.1.0"
