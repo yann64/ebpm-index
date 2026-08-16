@@ -1,6 +1,6 @@
 [package]
 name = "qt6"
-description = "A Qt6 Widgets binding for eBasic (hand-written extern \"C\" shim over real Qt6 C++ classes, matching eb-haiku's architecture) - QApplication, widgets, signals, custom drawing, checkboxes/radio buttons, combo boxes, text edit, menus, tabs, lists/tables, dialogs, sliders/spin boxes, progress/status bars, trees, scroll areas/splitters, tool bars, stacked widgets, color/font dialogs, dials/LCD numbers, dock widgets, grid/form layouts, button groups, system tray, date/time/calendar, timers, clipboard, input dialogs, style sheets, settings, shortcuts, validators, completers."
+description = "A Qt6 Widgets binding for eBasic (hand-written extern \"C\" shim over real Qt6 C++ classes, matching eb-haiku's architecture) - QApplication, widgets, signals, custom drawing, checkboxes/radio buttons, combo boxes, text edit, menus, tabs, lists/tables, dialogs, sliders/spin boxes, progress/status bars, trees, scroll areas/splitters, tool bars, stacked widgets, color/font dialogs, dials/LCD numbers, dock widgets, grid/form layouts, button groups, system tray, date/time/calendar, timers, clipboard, input dialogs, style sheets, settings, shortcuts, validators, completers, icons, action groups, tooltips, frames."
 
 [[versions]]
 version = "0.1.0"
@@ -41,3 +41,8 @@ tag = "v0.7.0"
 version = "0.8.0"
 git = "https://github.com/yann64/eb-qt6"
 tag = "v0.8.0"
+
+[[versions]]
+version = "0.9.0"
+git = "https://github.com/yann64/eb-qt6"
+tag = "v0.9.0"
