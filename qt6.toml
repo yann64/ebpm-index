@@ -1,6 +1,6 @@
 [package]
 name = "qt6"
-description = "A Qt6 Widgets binding for eBasic (hand-written extern \"C\" shim over real Qt6 C++ classes, matching eb-haiku's architecture) - QApplication, widgets, signals, custom drawing, checkboxes/radio buttons, combo boxes, text edit, menus, tabs, lists/tables, dialogs, sliders/spin boxes, progress/status bars, trees, scroll areas/splitters, tool bars, stacked widgets, color/font dialogs, dials/LCD numbers, dock widgets, grid/form layouts, button groups, system tray, date/time/calendar, timers, clipboard, input dialogs, style sheets, settings, shortcuts, validators, completers, icons, action groups, tooltips, frames, images, rich text, size constraints, focus control, enable/visible/font, scroll bars, layout spacing, label alignment/wrap, cursors, item icons, drag-and-drop, splash screens, wizards, PDF printing, multi-column trees, external processes, window geometry, password fields, editable combo boxes, HTTP requests, item-widget housekeeping, regex validators, reusable pixmaps, label hyperlinks, list row removal, settings contains/remove."
+description = "A Qt6 Widgets binding for eBasic (hand-written extern \"C\" shim over real Qt6 C++ classes, matching eb-haiku's architecture) - QApplication, widgets, signals, custom drawing, checkboxes/radio buttons, combo boxes, text edit, menus, tabs, lists/tables, dialogs, sliders/spin boxes, progress/status bars, trees, scroll areas/splitters, tool bars, stacked widgets, color/font dialogs, dials/LCD numbers, dock widgets, grid/form layouts, button groups, system tray, date/time/calendar, timers, clipboard, input dialogs, style sheets, settings, shortcuts, validators, completers, icons, action groups, tooltips, frames, images, rich text, size constraints, focus control, enable/visible/font, scroll bars, layout spacing, label alignment/wrap, cursors, item icons, drag-and-drop, splash screens, wizards, PDF printing, multi-column trees, external processes, window geometry, password fields, editable combo boxes, HTTP requests, item-widget housekeeping, regex validators, reusable pixmaps, label hyperlinks, list row removal, settings contains/remove, placeholder text, table headers, combo box random access, screen geometry."
 
 [[versions]]
 version = "0.1.0"
@@ -86,3 +86,8 @@ tag = "v0.16.0"
 version = "0.17.0"
 git = "https://github.com/yann64/eb-qt6"
 tag = "v0.17.0"
+
+[[versions]]
+version = "0.18.0"
+git = "https://github.com/yann64/eb-qt6"
+tag = "v0.18.0"
