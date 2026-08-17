@@ -1,6 +1,6 @@
 [package]
 name = "qt6"
-description = "A Qt6 Widgets binding for eBasic (hand-written extern \"C\" shim over real Qt6 C++ classes, matching eb-haiku's architecture) - QApplication, widgets, signals, custom drawing, checkboxes/radio buttons, combo boxes, text edit, menus, tabs, lists/tables, dialogs, sliders/spin boxes, progress/status bars, trees, scroll areas/splitters, tool bars, stacked widgets, color/font dialogs, dials/LCD numbers, dock widgets, grid/form layouts, button groups, system tray, date/time/calendar, timers, clipboard, input dialogs, style sheets, settings, shortcuts, validators, completers, icons, action groups, tooltips, frames, images, rich text, size constraints, focus control, enable/visible/font, scroll bars, layout spacing, label alignment/wrap, cursors, item icons, drag-and-drop."
+description = "A Qt6 Widgets binding for eBasic (hand-written extern \"C\" shim over real Qt6 C++ classes, matching eb-haiku's architecture) - QApplication, widgets, signals, custom drawing, checkboxes/radio buttons, combo boxes, text edit, menus, tabs, lists/tables, dialogs, sliders/spin boxes, progress/status bars, trees, scroll areas/splitters, tool bars, stacked widgets, color/font dialogs, dials/LCD numbers, dock widgets, grid/form layouts, button groups, system tray, date/time/calendar, timers, clipboard, input dialogs, style sheets, settings, shortcuts, validators, completers, icons, action groups, tooltips, frames, images, rich text, size constraints, focus control, enable/visible/font, scroll bars, layout spacing, label alignment/wrap, cursors, item icons, drag-and-drop, splash screens, wizards, PDF printing, multi-column trees."
 
 [[versions]]
 version = "0.1.0"
@@ -66,3 +66,8 @@ tag = "v0.12.0"
 version = "0.13.0"
 git = "https://github.com/yann64/eb-qt6"
 tag = "v0.13.0"
+
+[[versions]]
+version = "0.14.0"
+git = "https://github.com/yann64/eb-qt6"
+tag = "v0.14.0"
