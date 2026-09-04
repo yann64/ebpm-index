@@ -76,3 +76,8 @@ tag = "v0.13.0"
 version = "0.14.0"
 git = "https://github.com/yann64/eb-gtk4"
 tag = "v0.14.0"
+
+[[versions]]
+version = "0.15.0"
+git = "https://github.com/yann64/eb-gtk4"
+tag = "v0.15.0"

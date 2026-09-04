@@ -1,6 +1,6 @@
 [package]
 name = "gui-gtk4"
-description = "The GTK4 backend adapter for eb-gui, eBasic's universal cross-toolkit Application/Window/StatusBar/Timer/Menu/Toolbar/Action/Button/Label/Entry/Box/Grid/CheckBox/RadioButton/ComboBox/ProgressBar/Slider GUI API, plus per-child layout constraints (expand/align/weight/min-max-size) - implements the eb-gui contract by calling into eb-gtk4. Native shims bridge GTK4's close-request/action-activate/userdata-signal shapes to the contract's own."
+description = "The GTK4 backend adapter for eb-gui, eBasic's universal cross-toolkit Application/Window/StatusBar/Timer/Menu/Toolbar/Action/Button/Label/Entry/Box/Grid/CheckBox/RadioButton/ComboBox/ProgressBar/Slider/ListBox/TextView GUI API, plus per-child layout constraints (expand/align/weight/min-max-size) - implements the eb-gui contract by calling into eb-gtk4. Native shims bridge GTK4's close-request/action-activate/userdata-signal/listbox-row-selected shapes to the contract's own."
 
 [[versions]]
 version = "0.1.0"
@@ -41,3 +41,8 @@ tag = "v0.7.0"
 version = "0.8.0"
 git = "https://github.com/yann64/eb-gui-gtk4"
 tag = "v0.8.0"
+
+[[versions]]
+version = "0.9.0"
+git = "https://github.com/yann64/eb-gui-gtk4"
+tag = "v0.9.0"

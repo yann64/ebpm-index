@@ -1,6 +1,6 @@
 [package]
 name = "gui-qt6"
-description = "The Qt6 backend adapter for eb-gui, eBasic's universal cross-toolkit Application/Window/StatusBar/Timer/Menu/Toolbar/Action/Button/Label/Entry/Box/Grid/CheckBox/RadioButton/ComboBox/ProgressBar/Slider GUI API, plus per-child layout constraints (expand/align/weight/min-max-size) - implements the eb-gui contract by calling into eb-qt6."
+description = "The Qt6 backend adapter for eb-gui, eBasic's universal cross-toolkit Application/Window/StatusBar/Timer/Menu/Toolbar/Action/Button/Label/Entry/Box/Grid/CheckBox/RadioButton/ComboBox/ProgressBar/Slider/ListBox/TextView GUI API, plus per-child layout constraints (expand/align/weight/min-max-size) - implements the eb-gui contract by calling into eb-qt6."
 
 [[versions]]
 version = "0.1.0"
@@ -41,3 +41,8 @@ tag = "v0.7.0"
 version = "0.8.0"
 git = "https://github.com/yann64/eb-gui-qt6"
 tag = "v0.8.0"
+
+[[versions]]
+version = "0.9.0"
+git = "https://github.com/yann64/eb-gui-qt6"
+tag = "v0.9.0"
