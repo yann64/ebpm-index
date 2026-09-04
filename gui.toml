@@ -1,0 +1,8 @@
+[package]
+name = "gui"
+description = "The shared contract for eBasic's universal, cross-toolkit Application/Window GUI API - two TYPE shapes (GuiApplication, GuiWindow) every backend adapter implements identically. No native dependency; implements nothing itself. See gui-gtk4/gui-qt6 for real backend adapters."
+
+[[versions]]
+version = "0.1.0"
+git = "https://github.com/yann64/eb-gui"
+tag = "v0.1.0"
