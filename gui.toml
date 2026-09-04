@@ -1,6 +1,6 @@
 [package]
 name = "gui"
-description = "The shared contract for eBasic's universal, cross-toolkit Application/Window/StatusBar/Timer/Menu/Toolbar/Action/Button/Label/Entry/Box/Grid GUI API, plus per-child layout constraints (expand/align/weight/min-max-size) - thirteen TYPE shapes every backend adapter implements identically. No native dependency; implements nothing itself. See gui-gtk4/gui-qt6/gui-haiku for real backend adapters."
+description = "The shared contract for eBasic's universal, cross-toolkit Application/Window/StatusBar/Timer/Menu/Toolbar/Action/Button/Label/Entry/Box/Grid/CheckBox/RadioButton/ComboBox GUI API, plus per-child layout constraints (expand/align/weight/min-max-size) - sixteen TYPE shapes every backend adapter implements identically. No native dependency; implements nothing itself. See gui-gtk4/gui-qt6/gui-haiku for real backend adapters."
 
 [[versions]]
 version = "0.1.0"
@@ -31,3 +31,13 @@ tag = "v0.5.0"
 version = "0.6.0"
 git = "https://github.com/yann64/eb-gui"
 tag = "v0.6.0"
+
+[[versions]]
+version = "0.7.0"
+git = "https://github.com/yann64/eb-gui"
+tag = "v0.7.0"
+
+[[versions]]
+version = "0.7.1"
+git = "https://github.com/yann64/eb-gui"
+tag = "v0.7.1"
