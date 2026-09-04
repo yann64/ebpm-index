@@ -96,3 +96,8 @@ tag = "v0.14.4"
 version = "0.15.0"
 git = "https://github.com/yann64/eb-haiku"
 tag = "v0.15.0"
+
+[[versions]]
+version = "0.16.0"
+git = "https://github.com/yann64/eb-haiku"
+tag = "v0.16.0"
