@@ -1,8 +1,13 @@
 [package]
 name = "gui-haiku"
-description = "The native BWindow (Haiku BeAPI) backend adapter for eb-gui, eBasic's universal cross-toolkit Application/Window/StatusBar/Timer/Menu/Toolbar/Action GUI API - implements the eb-gui contract by calling into eb-haiku, with no native code of its own needed (all prerequisite native additions live in eb-haiku itself)."
+description = "The native BWindow (Haiku BeAPI) backend adapter for eb-gui, eBasic's universal cross-toolkit Application/Window/StatusBar/Timer/Menu/Toolbar/Action/Button/Label/Entry/Box/Grid GUI API - implements the eb-gui contract by calling into eb-haiku, with no native code of its own needed (all prerequisite native additions live in eb-haiku itself)."
 
 [[versions]]
 version = "0.1.0"
 git = "https://github.com/yann64/eb-gui-haiku"
 tag = "v0.1.0"
+
+[[versions]]
+version = "0.2.0"
+git = "https://github.com/yann64/eb-gui-haiku"
+tag = "v0.2.0"
