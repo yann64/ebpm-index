@@ -1,6 +1,6 @@
 [package]
 name = "gui"
-description = "The shared contract for eBasic's universal, cross-toolkit Application/Window/StatusBar/Timer GUI API - four TYPE shapes every backend adapter implements identically. No native dependency; implements nothing itself. See gui-gtk4/gui-qt6 for real backend adapters."
+description = "The shared contract for eBasic's universal, cross-toolkit Application/Window/StatusBar/Timer/Menu/Toolbar/Action GUI API - eight TYPE shapes every backend adapter implements identically. No native dependency; implements nothing itself. See gui-gtk4/gui-qt6 for real backend adapters."
 
 [[versions]]
 version = "0.1.0"
@@ -11,3 +11,8 @@ tag = "v0.1.0"
 version = "0.2.0"
 git = "https://github.com/yann64/eb-gui"
 tag = "v0.2.0"
+
+[[versions]]
+version = "0.3.0"
+git = "https://github.com/yann64/eb-gui"
+tag = "v0.3.0"
